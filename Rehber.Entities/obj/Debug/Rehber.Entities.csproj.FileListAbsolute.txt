@@ -1,0 +1,11 @@
+C:\Users\Section1\source\repos\Rehber.DLL\Rehber.Entities\bin\Debug\Rehber.Entities.dll.config
+C:\Users\Section1\source\repos\Rehber.DLL\Rehber.Entities\bin\Debug\Rehber.Entities.dll
+C:\Users\Section1\source\repos\Rehber.DLL\Rehber.Entities\bin\Debug\Rehber.Entities.pdb
+C:\Users\Section1\source\repos\Rehber.DLL\Rehber.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Section1\source\repos\Rehber.DLL\Rehber.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\source\repos\Rehber.DLL\Rehber.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Section1\source\repos\Rehber.DLL\Rehber.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\source\repos\Rehber.DLL\Rehber.Entities\obj\Debug\Rehber.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\Rehber.DLL\Rehber.Entities\obj\Debug\Rehber.Entities.csproj.CopyComplete
+C:\Users\Section1\source\repos\Rehber.DLL\Rehber.Entities\obj\Debug\Rehber.Entities.dll
+C:\Users\Section1\source\repos\Rehber.DLL\Rehber.Entities\obj\Debug\Rehber.Entities.pdb

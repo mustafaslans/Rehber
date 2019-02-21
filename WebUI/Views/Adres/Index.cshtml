@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Rehber.Entities.Entities.Adres>
+
+@{
+    ViewBag.Title = "Index";
+}
+<p>
+    @Html.ActionLink("Create New", "AdresEkle")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Kisi.KisiAdi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Il)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ilce)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kisi.KisiAdi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Il)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ilce)
+        </td>
+        <td>
+            @Html.ActionLink("Güncelle", "AdresGuncelle", new { id=item.AdresID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.AdresID }) |
+            @Html.ActionLink("Sil", "AdresSil", new { id=item.AdresID })
+        </td>
+    </tr>
+}
+</table>
